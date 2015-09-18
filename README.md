@@ -1,4 +1,0 @@
-FundLedger
-==========
-
-Fund Ledger
